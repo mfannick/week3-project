@@ -43,3 +43,38 @@ header{
 }
 
 /****************************************End of Section2-Services***************************/
+
+/****************************************Section3-What we do********************************/
+.card1,.card2,.card3{
+    box-shadow: 5px 5px 5px 0 white;
+    max-height:600px;
+    max-width: 200px;
+}
+.development,.design,.project{
+    text-align: center;
+}
+.development{
+    margin-top: 10px;
+    
+}
+/* .design{
+    padding-left:-30px;
+    
+}
+.project{
+    padding-right:-30px;
+} */
+.whatWeDo2{
+    text-align: center;
+}
+.whatWeDo1{
+    margin-top:60px;
+}
+.row{
+    margin-top:50px;
+    padding-left:80px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+/****************************************End of Section3-What we do*************************/
