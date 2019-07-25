@@ -25,3 +25,21 @@ header{
     margin-top: 60px;
 }
 /****************************************End of Section1-About us***************************/
+
+/********************************************Section2-Services******************************/
+.services1{
+    background-image: url("../images/backgrounds/s_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-bottom: 180px;
+}
+.services2{
+    padding-top: 140px;
+}
+.services3{
+    margin-top: -15px; 
+}
+
+/****************************************End of Section2-Services***************************/
