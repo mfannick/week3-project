@@ -109,5 +109,21 @@ header{
 /************************************End of Section4-Portofolio*****************************/
 
 /****************************************Section5-Contact********************************/
-
+.contact{
+    background-image:url("../images/backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    margin-top: 60px;
+}
+.contact1{
+    text-align: center;
+    padding-top: 60px;
+}
+#name,#email,#message{
+ background-color:rgba(0, 0, 0, 0);
+}
+::placeholder {
+    color: white;
+  }
 /************************************End of Section5-Contact*****************************/
