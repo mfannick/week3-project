@@ -78,3 +78,18 @@ header{
 }
 
 /****************************************End of Section3-What we do*************************/
+
+/****************************************Section4-Portofolio********************************/
+.porto2{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+.porto3{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+/************************************End of Section4-Portofolio*****************************/
+
