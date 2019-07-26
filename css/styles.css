@@ -79,24 +79,46 @@ header{
 /****************************************End of Section3-What we do*************************/
 
 /****************************************Section4-Portofolio********************************/
-.porto2{
+.porto-2{
     display: flex;
     flex-direction: row;
     justify-content:space-around;
 }
-.porto3{
+.porto-3{
     display: flex;
     flex-direction: row;
     justify-content:space-around;
     margin-top: 35px;
 }
-.porto1{
+.porto-1{
     text-align: center;
     margin-bottom:15px; 
 }
 .portofolio{
     margin-top: 60px;
 }
+
+span.overlay1,span.overlay2,span.overlay3,span.overlay4,span.overlay5,
+span.overlay6,span.overlay7,span.overlay8 {
+
+    background: rgba(192, 57, 43, 0.5);
+    display: table;
+    height: 180px;
+    width: 250px;
+    position: relative;
+    bottom:180px;
+    margin-bottom: -180px;
+}  
+ #text1,#text2,#text3,#text4,#text5,#text6,#text7,#text8{
+     display:table-cell;
+     text-align: center;
+     vertical-align: middle;
+     color: rgba(241, 169, 160, 1);
+     mix-blend-mode:overlay;
+     font-size: 30px;
+    }
+
+
 /************************************End of Section4-Portofolio*****************************/
 
 /****************************************Section5-Contact********************************/
