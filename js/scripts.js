@@ -5,7 +5,7 @@ $(document).ready(function(){
       var inputName=$('#name').val();
       var inputEmail=$('#email').val();
       var inputMessage=$('#message').val();
-     alert(inputName + " your message was received. Thank you!!!!!")
+     alert(inputName + " your message was received. Thank you!!!!!");
     });
   /********************************* end of input and submition*************************/
 

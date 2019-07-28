@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Darker+Grotesque|Nanum+Gothic&display=swap');
+*{
+    font-family: 'Nanum Gothic', sans-serif;
+}
 /********************************************header****************************************/
 header{
     background-image: url("../images/backgrounds/h_img.jpg");
@@ -92,6 +96,7 @@ header{
 }
 
 
+
 /****************************************End of Section3-What we do*************************/
 
 /****************************************Section4-Portofolio********************************/
@@ -129,8 +134,7 @@ span.overlay6,span.overlay7,span.overlay8 {
      display:table-cell;
      text-align: center;
      vertical-align: middle;
-     color: rgba(241, 169, 160, 1);
-     mix-blend-mode:overlay;
+     color: rgba(220, 198, 224, 1);
      font-size: 30px;
     }
 
@@ -169,6 +173,8 @@ span.overlay6,span.overlay7,span.overlay8 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    padding-left:300px;
+    padding-right: 300px
 }
 footer{
     margin-top: 60px;
