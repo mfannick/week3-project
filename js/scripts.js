@@ -100,5 +100,39 @@ $(document).ready(function(){
 
 
    /***************************end of hovering on portofolio images***********************/
+
+    /***************************hovering on what we do*************************************/
+                // development
+     $('#dev2').click(function(){
+         $('.dev1').toggle();
+         $('.dev3').toggle();
+     })
+     $('#dev3').click(function(){
+        $('.dev3').toggle();
+        $('.dev1').toggle();
+    })
+
+             //design
+    $('#design12').click(function(){
+            $('.design2').toggle();
+            $('.design1').toggle();
+    })
+    $('#design1').click(function(){
+               $('.design1').toggle();
+               $('.design2').toggle();
+    })
+
+              //project management
+    $('#project').click(function(){
+                $('.project1').toggle();
+                $('.man1').toggle();
+    })
+            $('#man1').click(function(){
+                $('.man1').toggle();
+                $('.project1').toggle();
+    })        
+
+
+     /***************************end of hovering on what we do*****************************/
 });
 

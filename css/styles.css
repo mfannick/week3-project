@@ -75,6 +75,22 @@ header{
     margin-left: 15px;
     margin-right: 15px;
 }
+.design1{
+    font-size:9px;
+    height:20%;
+    display: none;
+}
+.dev3{
+    font-size:9px;
+    height:20%;
+    display: none;
+}
+.man1{
+    font-size:9px;
+    height:20%;
+    display: none;
+}
+
 
 /****************************************End of Section3-What we do*************************/
 
