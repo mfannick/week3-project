@@ -122,7 +122,7 @@ header{
 span.overlay1,span.overlay2,span.overlay3,span.overlay4,span.overlay5,
 span.overlay6,span.overlay7,span.overlay8 {
 
-    background: rgba(192, 57, 43, 0.5);
+    background: rgba(255, 255, 255, 0.5);
     display: table;
     height: 180px;
     width: 250px;
@@ -134,7 +134,7 @@ span.overlay6,span.overlay7,span.overlay8 {
      display:table-cell;
      text-align: center;
      vertical-align: middle;
-     color: rgba(220, 198, 224, 1);
+     color: rgba(123, 24, 9, 1);
      font-size: 30px;
     }
 
